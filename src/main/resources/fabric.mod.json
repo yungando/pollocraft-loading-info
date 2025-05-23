@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "mindful-loading-info",
 	"version": "${version}",
-	"name": "Mindful Loading Info",
+	"name": "pollocraft-loading-info",
 	"description": "Loading screen with the loading progress of mods",
 	"authors": [
 		"Lautner"
